@@ -1,6 +1,5 @@
 const vendaRepository = require('../repository/venda_repository');
 const produtoRepository = require('../repository/produto_repository');
-const clienteRepository = require('../repository/cliente_repository');
 
 function createVenda(clienteNome, itens) {
     // validações

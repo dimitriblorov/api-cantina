@@ -1,6 +1,5 @@
 const produtoRepository = require('../repository/produto_repository');
 const categoriaRepository = require('../repository/categoria_repository');
-const fornecedorRepository = require('../repository/fornecedor_repository');
 
 function createProduto(nome, categoriaId, fornecedorNome, preco) {
     if (!nome || nome.trim() === '') {
