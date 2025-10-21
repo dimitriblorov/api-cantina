@@ -1,0 +1,23 @@
+{
+  "name": "cantina-dimitri",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitriblorov/api-cantina.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimitriblorov/api-cantina/issues"
+  },
+  "homepage": "https://github.com/dimitriblorov/api-cantina#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
